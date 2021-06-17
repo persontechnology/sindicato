@@ -527,18 +527,6 @@ class ComposerStaticInit8a6b924b4f42940cf50e444f61451541
 
     public static $classMap = array (
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
-        'App\\DataTables\\ContactosDataTable' => __DIR__ . '/../..' . '/app/DataTables/ContactosDataTable.php',
-        'App\\DataTables\\CursosDataTable' => __DIR__ . '/../..' . '/app/DataTables/CursosDataTable.php',
-        'App\\DataTables\\DocentesMateriasDataTable' => __DIR__ . '/../..' . '/app/DataTables/DocentesMateriasDataTable.php',
-        'App\\DataTables\\EstudiantesDataTable' => __DIR__ . '/../..' . '/app/DataTables/EstudiantesDataTable.php',
-        'App\\DataTables\\MateriasDataTable' => __DIR__ . '/../..' . '/app/DataTables/MateriasDataTable.php',
-        'App\\DataTables\\MatriculaPorCursoDataTable' => __DIR__ . '/../..' . '/app/DataTables/MatriculaPorCursoDataTable.php',
-        'App\\DataTables\\NoticiasDataTable' => __DIR__ . '/../..' . '/app/DataTables/NoticiasDataTable.php',
-        'App\\DataTables\\PeriodosDataTable' => __DIR__ . '/../..' . '/app/DataTables/PeriodosDataTable.php',
-        'App\\DataTables\\ProfesoresDataTable' => __DIR__ . '/../..' . '/app/DataTables/ProfesoresDataTable.php',
-        'App\\DataTables\\SecretariasDataTable' => __DIR__ . '/../..' . '/app/DataTables/SecretariasDataTable.php',
-        'App\\DataTables\\ServiciosDataTable' => __DIR__ . '/../..' . '/app/DataTables/ServiciosDataTable.php',
-        'App\\DataTables\\UsuariosDataTable' => __DIR__ . '/../..' . '/app/DataTables/UsuariosDataTable.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
         'App\\Http\\Controllers\\Auth\\ConfirmPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ConfirmPasswordController.php',
         'App\\Http\\Controllers\\Auth\\ForgotPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ForgotPasswordController.php',

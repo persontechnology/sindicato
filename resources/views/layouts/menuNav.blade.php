@@ -35,7 +35,7 @@
             <div class="container">
                 <div class="tt-header-top">
                     <address class="tt-box-location"><a href="contact.html"><i class="fa fa-map-marker"></i> Parroquia Pastocalle, sector El Progreso</a></address>
-                    <address class="tt-box-phone"><a href="#"><i class="fa fa-phone"></i> (03) 2719140</a></address>
+                    <address class="tt-box-phone"><a href="#"><i class="fa fa-phone"></i> (03) 3048891</a></address>
                     
                     <address class="tt-box-email">
                         <a href="mailto:ecp_pastocalle@yahoo.com"><i class="fa fa-envelope-open"></i> ecp_pastocalle@yahoo.com</a>
@@ -172,7 +172,7 @@
                     <div class="col-lg-3 col-md-6">
                         <h5>Contactos</h5>
                         <ul class="contacts">
-                            <li><a href="#0"><i class="fa fa-phone"></i> (03)2719140</a></li>
+                            <li><a href="#0"><i class="fa fa-phone"></i> (03)3048891</a></li>
                             <li><a href="mailto:ecp_pastocalle@yahoo.com"><i class="fa fa-envelope-o"></i> ecp_pastocalle@yahoo.com</a></li>
                             <li>
                                 <a href="{{route('contacto')}}" class="btn btn-outline-light"><i class="fa fa-map-marker"></i> Contactarnos</a>

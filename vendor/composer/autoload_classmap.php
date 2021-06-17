@@ -7,18 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'App\\Console\\Kernel' => $baseDir . '/app/Console/Kernel.php',
-    'App\\DataTables\\ContactosDataTable' => $baseDir . '/app/DataTables/ContactosDataTable.php',
-    'App\\DataTables\\CursosDataTable' => $baseDir . '/app/DataTables/CursosDataTable.php',
-    'App\\DataTables\\DocentesMateriasDataTable' => $baseDir . '/app/DataTables/DocentesMateriasDataTable.php',
-    'App\\DataTables\\EstudiantesDataTable' => $baseDir . '/app/DataTables/EstudiantesDataTable.php',
-    'App\\DataTables\\MateriasDataTable' => $baseDir . '/app/DataTables/MateriasDataTable.php',
-    'App\\DataTables\\MatriculaPorCursoDataTable' => $baseDir . '/app/DataTables/MatriculaPorCursoDataTable.php',
-    'App\\DataTables\\NoticiasDataTable' => $baseDir . '/app/DataTables/NoticiasDataTable.php',
-    'App\\DataTables\\PeriodosDataTable' => $baseDir . '/app/DataTables/PeriodosDataTable.php',
-    'App\\DataTables\\ProfesoresDataTable' => $baseDir . '/app/DataTables/ProfesoresDataTable.php',
-    'App\\DataTables\\SecretariasDataTable' => $baseDir . '/app/DataTables/SecretariasDataTable.php',
-    'App\\DataTables\\ServiciosDataTable' => $baseDir . '/app/DataTables/ServiciosDataTable.php',
-    'App\\DataTables\\UsuariosDataTable' => $baseDir . '/app/DataTables/UsuariosDataTable.php',
     'App\\Exceptions\\Handler' => $baseDir . '/app/Exceptions/Handler.php',
     'App\\Http\\Controllers\\Auth\\ConfirmPasswordController' => $baseDir . '/app/Http/Controllers/Auth/ConfirmPasswordController.php',
     'App\\Http\\Controllers\\Auth\\ForgotPasswordController' => $baseDir . '/app/Http/Controllers/Auth/ForgotPasswordController.php',
