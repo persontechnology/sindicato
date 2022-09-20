@@ -145,7 +145,7 @@
                                 </header>
                                 <div class="pricing-body">
                                     <ul class="pricing-features">
-                                        <li><em>Regular</em> 7 Meses</li>
+                                        {{-- <li><em>Regular</em> 7 Meses</li> --}}
                                         <li><em>1</em> Usuario</li>
                                         <li><em>Convalidación</em> Tener Tipo C</li>
                                         <li><em> $ 717</em></li>
@@ -195,7 +195,7 @@
                                 </header>
                                 <div class="pricing-body">
                                     <ul class="pricing-features">
-                                        <li><em>Regular</em> 9 Meses</li>
+                                        {{-- <li><em>Regular</em> 9 Meses</li> --}}
                                         <li><em>1</em> Usuario</li>
                                         <li><em>Convalidación</em> Tener Tipo C</li>
                                         <li><em> $ 842</em> </li>
