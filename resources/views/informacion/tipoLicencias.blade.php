@@ -100,7 +100,7 @@
                                         <li><em>O</em> 18h30  a 21h30 </li>
                                         <li><em>Sábado y Domingo</em> 07h30  a 16h00 </li>
                                         <li><em>6</em> meses</li>
-                                        <li><em>Dudas</em> (03)2719140</li>
+                                        <li><em>Dudas</em> (03) 3048891</li>
                                     </ul>
                                 </div>
                                 <footer class="pricing-footer">
@@ -123,7 +123,7 @@
                                         <li><em>Lunes A Viernes</em> 09h00  a 17h00 </li>                               
                                         <li><em>Sábado y Domingo</em> 07h30  a 16h00 </li>
                                         <li><em>60</em> min</li>
-                                        <li><em>Dudas</em> (03)2719140</li>
+                                        <li><em>Dudas</em> (03) 3048891</li>
                                     </ul>
                                 </div> 
                                 <footer class="pricing-footer">
@@ -150,7 +150,7 @@
                                         <li><em>Convalidación</em> Tener Tipo C</li>
                                         <li><em> $ 717</em></li>
                                         <li><em> 3 Meses</em></li>
-                                        <li><em>Dudas</em> (03)2719140</li>
+                                        <li><em>Dudas</em> (03) 3048891</li>
                                     </ul>
                                 </div>
                                 <footer class="pricing-footer">
@@ -173,7 +173,7 @@
                                         <li><em>Lunes A Viernes</em> 09h00  a 17h00 </li>                               
                                         <li><em>Sábado y Domingo</em> 07h30  a 16h00 </li>
                                         <li><em>&infin; </em> &infin; </li>
-                                        <li><em>Dudas</em> (03)2719140</li>
+                                        <li><em>Dudas</em> (03) 3048891</li>
                                     </ul>
                                 </div>
                                 <footer class="pricing-footer">
@@ -200,7 +200,7 @@
                                         <li><em>Convalidación</em> Tener Tipo C</li>
                                         <li><em> $ 842</em> </li>
                                         <li><em> 5 Meses</em> </li>
-                                        <li><em>Dudas</em> (03)2719140</li>
+                                        <li><em>Dudas</em> (03) 3048891</li>
 
                                     </ul>
                                 </div>
@@ -224,7 +224,7 @@
                                         <li><em>Lunes A Viernes</em> 09h00  a 17h00 </li>                               
                                         <li><em>Sábado y Domingo</em> 07h30  a 16h00 </li>
                                         <li><em>&infin; </em> &infin; </li>
-                                        <li><em>Dudas</em> (03)2719140</li>
+                                        <li><em>Dudas</em> (03) 3048891</li>
                                     </ul>
                                 </div>
                                 <footer class="pricing-footer">

@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>{{ config('app.nameapp', 'SINDICATO DE PASTOCALLE') }}</title>
-    <link rel="shortcut icon" href="{{asset('plusCliente/images/a.png')}}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{asset('plusCliente/images/logo.png')}}" type="image/x-icon">
     <link href="{{asset('plusCliente/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{asset('plusCliente/css/style.css')}}" rel="stylesheet">
     <link href="{{asset('plusCliente/css/style2.css')}}" rel="stylesheet">
@@ -51,12 +51,12 @@
             <div id="preloader"><div data-loader="circle-side"></div></div>
             <div id="logo" >          
                 <a href="{{url('/')}}" class=""> 
-                    <img src="{{asset('plusCliente/images/a.png')}}" width="80px;" data-retina="true" alt="" class="logo_normal  mt-3 ml-5 ">
+                    <img src="{{asset('plusCliente/images/a.png')}}" width="80px;" data-retina="true" alt="" class="logo_normal img-thumbnail mt-3 ml-5 border border-success">
                 </a>
                 
                 <a href="{{url('/')}}" class="mt-3">
-                    <img src="{{asset('plusCliente/images/a.png')}}" width="40px;" data-retina="complete" alt="" class="logo_sticky ml-4 ">
-                    <strong id="escuelaname" class="text-white">{{config('app.name')}}</strong>
+                    <img src="{{asset('plusCliente/images/a.png')}}" width="40px;" data-retina="complete" alt="" class="logo_sticky img-thumbnail ml-4 border border-success">
+                    <strong id="escuelaname" class="text-success">{{config('app.name')}}</strong>
                 </a>
             </div>
             <a href="#menu" class="btn_mobile">

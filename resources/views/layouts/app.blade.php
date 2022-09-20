@@ -59,7 +59,7 @@
 
 
                 <a class="navbar-brand" href="{{ url('/') }}">
-                  <img src="{{asset('plusCliente/images/a.png')}}" width="30" height="30" class="d-inline-block align-top" alt="">
+                  <img src="{{asset('plusCliente/images/a.png')}}" width="30" height="30" class="d-inline-block align-top img-thumbnail border-success" alt="">
                    {{ config('app.nameapp', 'ESCUELA S.J') }}
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
