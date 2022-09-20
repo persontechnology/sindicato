@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     
     <title>{{ config('app.nameapp', 'ESCUELA S.J') }}</title>
-    <link rel="shortcut icon" href="{{asset('plusCliente/images/logo.png')}}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{asset('plusCliente/images/a.png')}}" type="image/x-icon">
     <!-- Scripts -->
     
     <script src="{{ asset('js/app.js') }}"></script>
@@ -59,7 +59,7 @@
 
 
                 <a class="navbar-brand" href="{{ url('/') }}">
-                  <img src="{{asset('plusCliente/images/a.png')}}" width="30" height="30" class="d-inline-block align-top img-thumbnail border-success" alt="">
+                  <img src="{{asset('plusCliente/images/a.png')}}" width="30" height="30" class="d-inline-block align-top" alt="">
                    {{ config('app.nameapp', 'ESCUELA S.J') }}
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">

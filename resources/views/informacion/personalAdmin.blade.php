@@ -22,7 +22,7 @@
 <div class="container-fluid verde">
 	<div class="row justify-content-center">
 	
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -40,7 +40,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -58,7 +58,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -76,7 +76,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -94,7 +94,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -112,7 +112,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -130,7 +130,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -148,7 +148,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		<div class="col-md-3 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -166,7 +166,7 @@
 			
 			</div>
 		</div>
-		<div class="col-md-4 my-3">
+		{{-- <div class="col-md-4 my-3">
 			<div class="our-team-main">
 			
 				<div class="team-front">
@@ -183,7 +183,7 @@
 				</div>
 			
 			</div>
-		</div>
+		</div> --}}
 
 	</div>
 </div>

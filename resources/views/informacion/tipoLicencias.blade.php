@@ -163,7 +163,7 @@
 
                                     <div class="price">
                                         <span class="currency">$</span>
-                                        <span class="price-value">87,92</span>
+                                        <span class="price-value">67,92</span>
                                         <span class="price-duration">total</span>
                                     </div>
                                 </header>
@@ -214,7 +214,7 @@
 
                                     <div class="price">
                                         <span class="currency">$</span>
-                                        <span class="price-value">68</span>
+                                        <span class="price-value">67,92</span>
                                         <span class="price-duration">total</span>
                                     </div>
                                 </header>

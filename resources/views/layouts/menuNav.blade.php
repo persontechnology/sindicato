@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <title>{{ config('app.nameapp', 'SINDICATO DE PASTOCALLE') }}</title>
-    <link rel="shortcut icon" href="{{asset('plusCliente/images/logo.png')}}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{asset('plusCliente/images/a.png')}}" type="image/x-icon">
     <link href="{{asset('plusCliente/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{asset('plusCliente/css/style.css')}}" rel="stylesheet">
     <link href="{{asset('plusCliente/css/style2.css')}}" rel="stylesheet">
@@ -34,14 +34,14 @@
         <div class="tt-header-wrapper-top" style="height: 30px">
             <div class="container">
                 <div class="tt-header-top">
-                    <address class="tt-box-location"><a href="contact.html"><i class="fa fa-map-marker"></i> Parroquia Pastocalle, sector El Progreso</a></address>
+                    <address class="tt-box-location"><a href="contact.html"><i class="fa fa-map-marker"></i> E-35 vía a quito km 323, sector el chasqui, junto a la fabrica POSTECOM</a></address>
                     <address class="tt-box-phone"><a href="#"><i class="fa fa-phone"></i> (03) 3048891</a></address>
                     
                     <address class="tt-box-email">
                         <a href="mailto:ecp_pastocalle@yahoo.com"><i class="fa fa-envelope-open"></i> ecp_pastocalle@yahoo.com</a>
                     </address>
 
-                    <address class="tt-box-time"><i class="fa fa-clock-o"></i> 8:00 AM – 6:00 PM / 6 Días</address>
+                    <address class="tt-box-time"><i class="fa fa-clock-o"></i> 9:00 AM – 7:00 PM / 6 Días</address>
                 </div>
             </div>
         </div>
@@ -51,12 +51,12 @@
             <div id="preloader"><div data-loader="circle-side"></div></div>
             <div id="logo" >          
                 <a href="{{url('/')}}" class=""> 
-                    <img src="{{asset('plusCliente/images/a.png')}}" width="80px;" data-retina="true" alt="" class="logo_normal img-thumbnail mt-3 ml-5 border border-success">
+                    <img src="{{asset('plusCliente/images/a.png')}}" width="80px;" data-retina="true" alt="" class="logo_normal  mt-3 ml-5 ">
                 </a>
                 
                 <a href="{{url('/')}}" class="mt-3">
-                    <img src="{{asset('plusCliente/images/a.png')}}" width="40px;" data-retina="complete" alt="" class="logo_sticky img-thumbnail ml-4 border border-success">
-                    <strong id="escuelaname" class="text-success">{{config('app.name')}}</strong>
+                    <img src="{{asset('plusCliente/images/a.png')}}" width="40px;" data-retina="complete" alt="" class="logo_sticky ml-4 ">
+                    <strong id="escuelaname" class="text-white">{{config('app.name')}}</strong>
                 </a>
             </div>
             <a href="#menu" class="btn_mobile">

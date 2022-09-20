@@ -8,7 +8,7 @@
         <div id="layerslider" style="width:100%;height:700px;">
 
             <div class="ls-slide" data-ls="slidedelay: 5000; transition2d:85;">
-                <img src="{{asset('plusCliente/images/slider/1.jpeg')}}" class="ls-bg" alt="Slide background">
+                <img src="{{asset('plusCliente/images/slider/1.png')}}" class="ls-bg" alt="Slide background">
                 <h3 class="ls-l slide_typo" style="top: 33%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;">“ESCUELA DE <strong>CAPACITACIÓN </strong>   </h3>
                 <p class="ls-l slide_typo_2" style="top:43%; left:50%;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">
                     DE CONDUCTORES PROFESIONALES DEL SINDICATO PARROQUIAL  DE
@@ -18,7 +18,7 @@
                 <a class="ls-l btn_1 rounded" style="top:60%; left:50%;white-space: nowrap;" data-ls="durationin:2000;delayin:1400;easingin:easeOutElastic;" href="{{route('histor')}}">Leer Más</a>
             </div>
             <div class="ls-slide" data-ls="slidedelay:5000; transition2d:103;">
-                <img src="{{asset('plusCliente/images/slider/2.jpeg')}}" class="ls-bg" alt="Slide background">
+                <img src="{{asset('plusCliente/images/slider/2.png')}}" class="ls-bg" alt="Slide background">
                 <h3 class="ls-l slide_typo" style="top: 40%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;"><strong>“Formando</strong> Profesionales</h3>
                 <p class="ls-l slide_typo_2" style="top:50%; left:50%;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">
                     con liderazgo y conciencia social.
@@ -29,7 +29,7 @@
             </div>
             <div class="ls-slide" data-ls="slidedelay: 5000; transition2d:5;">
 
-                <img src="{{asset('plusCliente/images/slider/3.jpeg')}}" class="ls-bg" alt="Slide background">
+                <img src="{{asset('plusCliente/images/slider/3.png')}}" class="ls-bg" alt="Slide background">
 
                 <h3 class="ls-l slide_typo" style="top:47%; left: 50%;" data-ls="offsetxin:0;durationin:2000;delayin:1000;easingin:easeOutElastic;rotatexin:90;transformoriginin:50% bottom 0;offsetxout:0;rotatexout:90;transformoriginout:50% bottom 0;"><strong>Licencias </strong> Profesionales</h3>
                 <p class="ls-l slide_typo_2" style="top:55%; left:50%;" data-ls="durationin:2000;delayin:1000;easingin:easeOutElastic;">
@@ -177,7 +177,7 @@
                         Reserve nuestra lección de prueba y conozca a su instructor de manejo personal
                     </p>
                     <address>
-                        (03) 2719140
+                        (03) 3048891
                     </address>
                     <a href="#sign-in-dialog" id="sign-in" class="login" title="Ver más">
                         {{-- <img class="tt-icon"  src="{{asset('/plusCliente/images/iconos/seo.svg')}}" class="img-fluid" width="80px" height="80px" > --}}

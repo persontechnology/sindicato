@@ -78,6 +78,15 @@
 				</p>
 			</a>
 		</div>
+		<div class="timeline">
+			<a  class="timeline-content">
+				<span class="year">2021</span>
+				<h3 class="title">Resolución No. autorización de funcionamiento</h3>
+				<p class="description">
+					Autorización de funcionamiento de las nuevas instalaciones de la escuela de capacitación de conductores profesionales san juan de Pastocalle, liderado por el comité ejecutivo 2021-2025.
+				</p>
+			</a>
+		</div>
 	</div>
 </div>
 
