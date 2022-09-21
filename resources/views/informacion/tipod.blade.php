@@ -16,7 +16,7 @@
                 <h3 align="justify">Autorizados por la Agencia Nacional de Tránsito <b>N°. 165-DE-DTHA-ANT-2015</b></h3>
             </div>
             <div class="row">
-              
+
                 {{-- <div class="col-md-6 box_grid wow" data-wow-offset="30">
                     <div class="block-reveal">
                         <div class="block-vertical"></div>
@@ -223,7 +223,7 @@
                             </a>
                     </div>
                 </div> --}}
-              <center>
+                <div class="col-md-3"></div>
                 <div class="col-md-6 box_grid wow" data-wow-offset="30">
                     <div class="block-reveal">
                         <div class="block-vertical"></div>
@@ -359,7 +359,8 @@
                             </a>
                         </div>
                 </div>
-              </center>
+                <div class="col-md-3"></div>
+
                 <!-- /accordion payment -->
             </div>
             <!--form -->

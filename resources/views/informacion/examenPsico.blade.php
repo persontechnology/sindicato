@@ -14,7 +14,7 @@
 				<div class="col-lg-4">
 					<figure>
 						<small>Examen</small><br>
-						<a href="#0"><img src="{{asset('plusCliente/images/servicios/examen.jpeg')}}"  class="img-fluid" style="margin-top: 40px">
+						<a href="#0"><img src="{{asset('plusCliente/images/servicios/examen.png')}}"  class="img-fluid" style="margin-top: 40px">
 						</a>
 					</figure>
 				</div>
@@ -26,10 +26,10 @@
 						Los niveles de respuesta que se evalúan al paciente con el entorno son: la velocidad de reacción, la coordinación de movimientos y la capacidad de controlar su cuerpo para realizar acciones específicas.
 
 						En este tipo de exámenes también se monitorea la capacidad visual y auditiva del usuario, además de examinar su historia clínica en relación con las enfermedades mentales que pueden generar dificultad a la hora de conducir, como la neurosis, problemas de sueño y otros. <span style="font-size: 20px; margin-left: 10px" >
-						
+
 						</span></p>
 						<span class="price">Formando Profesionales con Liderazgo y Conciencia Social</span>
-					</div>	
+					</div>
 					</ul>
 				</div>
 			</div>

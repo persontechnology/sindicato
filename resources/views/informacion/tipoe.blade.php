@@ -16,7 +16,7 @@
                 <h5 align="center">Autorizados por la Agencia Nacional de Tránsito <b>N°.
                         032-ATFEP-C66CTTT5V-DTHA-ANT-2016</b></h5>
             </div>
-            <div class="row ">
+            <div class="row">
                 {{-- <div class="col-md-6 box_grid wow" data-wow-offset="30">
                     <div class="block-reveal">
                         <div class="block-vertical"></div>
@@ -230,7 +230,7 @@
                             </a>
                         </div>
                 </div> --}}
-                <center>
+                <div class="col-md-3"></div>
                 <div class="col-md-6 box_grid wow" data-wow-offset="30">
                     <div class="block-reveal">
                         <div class="block-vertical"></div>
@@ -368,7 +368,7 @@
                         </center>
                     </div>
                 </div>
-              </center>
+                <div class="col-md-3"></div>
             </div>
         </div>
     </div>
