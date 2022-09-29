@@ -11,7 +11,7 @@
 <div class="container-fluid margin_70_0" style="margin-top: 25px">
 	<div class="main_title_2">
 		<span><em></em></span>
-		<p>“ESCUELA DE CAPACITACIÓN DE CONDUCTORES PROFESIONALES DEL SINDICATO PARROQUIAL DE SAN JUAN DE PASTOCALLE”</p>
+		<p>“Escuela de Capacitación de Conductores Profesionales San Juan de Pastocalle”</p>
 	</div>
 	<div class="main-timeline">
 		<div class="timeline">
