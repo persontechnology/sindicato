@@ -234,7 +234,7 @@
                 <div class="col-md-6 box_grid wow" data-wow-offset="30">
                     <div class="block-reveal">
                         <div class="block-vertical"></div>
-                        <img src="{{ asset('/plusCliente/img/autodetalle.png') }}" alt="" width="200"
+                        <img src="{{ asset('plusCliente/images/camion3.png') }}" alt="" 
                             class="img-fluid">
                         <div class="main_title_22">
                             <h4 class="color22">Curso Por Convalidación 5 Meses</h4>
