@@ -47,7 +47,7 @@
 				<span class="year">2012</span>
 				<h3 class="title">Resolución No. 041-DE-2012-ANT</h3>
 				<p class="description">
-					Mediante, Resolución No. 041-DE-2012-ANT, de fecha Quito, 09 de julio del 2012: emiten la Autorización Previa de CREACIÓN de la Escuela de Capacitación de Conductores Profesionales del Sindicato Parroquial  de Choferes Profesionales de San Juan de Pastocalle.
+					Mediante, Resolución No. 041-DE-2012-ANT, de fecha Quito, 09 de julio del 2012: emiten la Autorización Previa de CREACIÓN de la Escuela de Capacitación de Conductores Profesionales San Juan de Pastocalle.
 				</p>
 			</a>
 		</div>
@@ -56,7 +56,7 @@
 				<span class="year">2012</span>
 				<h3 class="title">Resolución No. 063-DE-2012-ANT</h3>
 				<p class="description">
-					Meses después mediante, Resolución No. 063-DE-2012-ANT, de fecha Quito, 13 de noviembre del 2012: Autorización de FUNCIONAMIENTO de la Escuela de Capacitación de Conductores Profesionales del Sindicato Parroquial  de Choferes Profesionales de San Juan de Pastocalle.
+					Meses después mediante, Resolución No. 063-DE-2012-ANT, de fecha Quito, 13 de noviembre del 2012: Autorización de FUNCIONAMIENTO de la Escuela de Capacitación de Conductores Profesionales San Juan de Pastocalle.
 				</p>
 			</a>
 		</div>
@@ -65,7 +65,7 @@
 				<span class="year">2015</span>
 				<h3 class="title">Resolución No. -DE-DTHA-ANT-2015</h3>
 				<p class="description">
-					Autorización de funcionamiento de la escuela de capacitación del sindicato parroquial de chóferes profesionales de san Juan de Pastocalle para la capacitación y formación de conductores profesionales en los tipos de licencias tipo “D-D1” .
+					Autorización de funcionamiento de la Escuela de Capacitación de Conductores Profesionales San Juan de Pastocalle para la capacitación y formación de conductores profesionales en los tipos de licencias tipo “D-D1” .
 				</p>
 			</a>
 		</div>
@@ -74,7 +74,7 @@
 				<span class="year">2016</span>
 				<h3 class="title">Resolución No. 032-ATFEP-CGGCTTTSV-DTHA-ANT-2016</h3>
 				<p class="description">
-					Autorización de funcionamiento de la escuela de capacitación del sindicato parroquial de chóferes profesionales de san Juan de Pastocalle para la capacitación y formación de conductores profesionales en los tipos de licencias tipo “E”
+					Autorización de funcionamiento de la Escuela de Capacitación de Conductores Profesionales San Juan de Pastocalle para la capacitación y formación de conductores profesionales en los tipos de licencias tipo “E”
 				</p>
 			</a>
 		</div>
@@ -83,7 +83,7 @@
 				<span class="year">2021</span>
 				<h3 class="title">Resolución No. 090 autorización de funcionamiento</h3>
 				<p class="description">
-					Autorización de funcionamiento de las nuevas instalaciones de la escuela de capacitación de conductores profesionales san juan de Pastocalle, liderado por el comité ejecutivo 2021-2025.
+					Autorización de funcionamiento de las nuevas instalaciones de la Escuela de Capacitación de Conductores Profesionales San Juan de Pastocalle, liderado por el comité ejecutivo 2021-2025.
 				</p>
 			</a>
 		</div>
