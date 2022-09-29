@@ -65,7 +65,7 @@
 					<a class="boxed_list" href="#0">
 						<img src="{{asset('plusCliente/images/iconos/money.svg')}}" width="80px">
 						<h3 style="color: white">Total</h3>
-						<p style="color: white">$87.92/Persona<br>
+						<p style="color: white">$67,92/Persona<br>
 						</p>
 					</a>
 				</div>
