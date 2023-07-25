@@ -38,12 +38,12 @@ class Carga extends Seeder
             $perfil->nombre='Estudiante';
             $perfil->save();
         }
-        if (!User::where('email','info@sindicatopastocalle.com')->first()) {
+        if (!User::where('email','info@sindicatodepastocalle.com')->first()) {
         	$perfil=Perfil::where('nombre','Admin')->first();
         	User::create([
 	            'name' => 'Admin',
-	            'email' => 'info@sindicatopastocalle.com',
-	            'password' => Hash::make('pastocalle2020'),
+	            'email' => 'info@sindicatodepastocalle.com',
+	            'password' => Hash::make(env('PASSWORD_ADMIN','')),
                 'perfil_id'=>$perfil->id,
                 'estado'=>true
 	        ]);
